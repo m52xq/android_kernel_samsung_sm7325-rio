@@ -4,7 +4,7 @@
 #include <linux/types.h>
 #include <linux/workqueue.h>
 
-#define KERNEL_SU_VERSION 22243
+#define KERNEL_SU_VERSION 32255
 
 #define EVENT_POST_FS_DATA 1
 #define EVENT_BOOT_COMPLETED 2
