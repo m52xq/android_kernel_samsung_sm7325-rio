@@ -855,7 +855,6 @@ static const struct midr_range erratum_spec_ssbs_list[] = {
 };
 #endif
 
->>>>>>> 3fe77644f500cde56245e5f08d6dfaa20e72682a
 const struct arm64_cpu_capabilities arm64_errata[] = {
 #ifdef CONFIG_ARM64_WORKAROUND_CLEAN_CACHE
 	{
